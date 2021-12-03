@@ -1,0 +1,31 @@
+{
+  "name": "marvel-spiderman-if",
+  "version": "1.0.0",
+  "description": "Marvel Spider-Man Interactive Fiction",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timtendo12/marvel-spiderman-IF.git"
+  },
+  "keywords": [
+    "Spider-Man",
+    "Marvel",
+    "IF",
+    "InteractiveFiction",
+    "Interactive",
+    "Text",
+    "JavaScript"
+  ],
+  "author": "Tim Slager",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Timtendo12/marvel-spiderman-IF/issues"
+  },
+  "homepage": "https://github.com/Timtendo12/marvel-spiderman-IF#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
